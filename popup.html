@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Word Counter & Density Analyzer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📊 Analyseur de Mots-Clés</h1>
+        </header>
+
+        <div class="stats-container">
+            <div class="stat-card">
+                <h2>Nombre total de mots</h2>
+                <div id="totalWords" class="stat-value">...</div>
+            </div>
+            <div class="stat-card">
+                <h2>Paragraphes</h2>
+                <div id="paragraphCount" class="stat-value">...</div>
+            </div>
+        </div>
+
+        <div class="keywords-container">
+            <h2>Top Mots-Clés</h2>
+            <div id="keywordsList" class="keywords-list">
+                <div class="loading">Analyse en cours...</div>
+            </div>
+        </div>
+
+        <div class="review-section">
+            <h3>Vous aimez notre extension ?</h3>
+            <p>Laissez-nous un avis !</p>
+            <a href="https://g.page/r/CaWr6uhau0-hEBM/review" target="_blank" class="review-button">
+                ⭐ Donner votre avis sur Google
+            </a>
+        </div>
+    </div>
+    <script src="popup.js"></script>
+</body>
+</html>
